@@ -7,4 +7,7 @@ public class Main {
         System.out.println("Меня зовут Виталик");
 
     }
+    public static void anither(){
+        System.out.println("Ку ку");
+    }
 }
